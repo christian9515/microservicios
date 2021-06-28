@@ -1,0 +1,2 @@
+microservicio/web/store/servicecustomer/ServiceCustomerApplicationTests.java
+ microservicio.web.store.servicecustomer.ServiceCustomerApplicationTests

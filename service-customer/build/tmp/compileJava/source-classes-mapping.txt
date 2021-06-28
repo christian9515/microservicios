@@ -1,0 +1,18 @@
+microservicio/web/store/servicecustomer/repository/CustomerRepository.java
+ microservicio.web.store.servicecustomer.repository.CustomerRepository
+microservicio/web/store/servicecustomer/service/CustomerService.java
+ microservicio.web.store.servicecustomer.service.CustomerService
+microservicio/web/store/servicecustomer/controller/CustomerRest.java
+ microservicio.web.store.servicecustomer.controller.CustomerRest
+microservicio/web/store/servicecustomer/repository/entity/Region.java
+ microservicio.web.store.servicecustomer.repository.entity.Region
+microservicio/web/store/servicecustomer/repository/entity/Customer.java
+ microservicio.web.store.servicecustomer.repository.entity.Customer
+microservicio/web/store/servicecustomer/ServiceCustomerApplication.java
+ microservicio.web.store.servicecustomer.ServiceCustomerApplication
+microservicio/web/store/servicecustomer/service/CustomerServiceImpl.java
+ microservicio.web.store.servicecustomer.service.CustomerServiceImpl
+microservicio/web/store/servicecustomer/controller/ErrorMessage.java
+ microservicio.web.store.servicecustomer.controller.ErrorMessage
+ microservicio.web.store.servicecustomer.controller.ErrorMessage$CustomerRepository
+ microservicio.web.store.servicecustomer.controller.ErrorMessage$ErrorMessageBuilder
