@@ -1,0 +1,6 @@
+microservicio/web/store/service/ProductRepositoryMockTest.java
+ microservicio.web.store.service.ProductRepositoryMockTest
+microservicio/web/store/service/ProductServiceMockTest.java
+ microservicio.web.store.service.ProductServiceMockTest
+microservicio/web/store/service/ServiceProductApplicationTests.java
+ microservicio.web.store.service.ServiceProductApplicationTests

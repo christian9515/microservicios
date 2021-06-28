@@ -1,0 +1,19 @@
+microservicio/web/store/service/service/ProductServiceImpl.java
+ microservicio.web.store.service.service.ProductServiceImpl
+microservicio/web/store/service/controller/ErrorMessage.java
+ microservicio.web.store.service.controller.ErrorMessage
+ microservicio.web.store.service.controller.ErrorMessage$ErrorMessageBuilder
+microservicio/web/store/service/ServiceProductApplication.java
+ microservicio.web.store.service.ServiceProductApplication
+microservicio/web/store/service/repository/ProductRepository.java
+ microservicio.web.store.service.repository.ProductRepository
+microservicio/web/store/service/entity/Product.java
+ microservicio.web.store.service.entity.Product
+ microservicio.web.store.service.entity.Product$ProductBuilder
+microservicio/web/store/service/entity/Category.java
+ microservicio.web.store.service.entity.Category
+ microservicio.web.store.service.entity.Category$CategoryBuilder
+microservicio/web/store/service/service/ProductService.java
+ microservicio.web.store.service.service.ProductService
+microservicio/web/store/service/controller/ProductController.java
+ microservicio.web.store.service.controller.ProductController
