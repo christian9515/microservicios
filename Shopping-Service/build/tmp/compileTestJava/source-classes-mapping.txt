@@ -1,0 +1,2 @@
+microservicio/web/store/Shopping/ShoppingServiceApplicationTests.java
+ microservicio.web.store.Shopping.ShoppingServiceApplicationTests
